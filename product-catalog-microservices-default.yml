@@ -4,8 +4,8 @@
 #spring.data.mongodb.host=localhost
 
 spring:
-  data:
-    mongodb:
-      database: ProductCatalog
-      port: 27017
-      host: localhost
+    data:
+        mongodb:
+            database: ProductCatalog
+            port: 27017
+            host: localhost
